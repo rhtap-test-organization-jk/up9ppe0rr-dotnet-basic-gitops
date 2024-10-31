@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: up9ppe0rr-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/up9ppe0rr-dotnet-basic
